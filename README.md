@@ -1,3 +1,13 @@
+#NOTE: 
+
+This repo is the result of following tutorial for using react-redux with TypeScript 
+from the Microsoft Github account: https://github.com/Microsoft/TypeScript-React-Starter
+
+Created using create-react-app --something-something-typescript
+
+Boom.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
